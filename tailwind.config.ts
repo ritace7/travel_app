@@ -7,6 +7,9 @@ module.exports = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        pixelify: ["Pixelify Sans", "san-serif"]
+      },
       colors: {
         green: {
           50: '#30AF5B',
